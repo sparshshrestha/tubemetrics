@@ -1,4 +1,4 @@
-# YouTube Data Analysis Dashboard
+# YouTuber Data Analysis Dashboard
 
 Welcome to the YouTube Data Analysis Dashboard! This interactive platform leverages Streamlit to provide comprehensive insights into the performance of top YouTubers. By exploring various metrics such as subscribers, video views, and the number of videos, users can gain valuable insights into the trends and factors driving success on YouTube. Tailored for researchers, marketers, and content creators, this dashboard enables data-driven decision-making to enhance content strategy and engagement on the world's leading video-sharing platform.
 
